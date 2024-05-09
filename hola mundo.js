@@ -1,5 +1,2 @@
-export function hello() {
-    return 'Hello, World!';
-  }
+console.log(" Hola mundo y Amigos  ");
 
-  console.log(" Hola mundo");
