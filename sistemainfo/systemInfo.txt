@@ -1,0 +1,6 @@
+
+Número de procesadores: 8
+Memoria total: 24407.05 MB
+Memoria ocupada: 7411.10 MB
+Arquitectura del CPU: x64
+Versión del SO: Windows 10 Home Single Language
