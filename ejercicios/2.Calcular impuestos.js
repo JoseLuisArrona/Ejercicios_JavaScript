@@ -10,6 +10,7 @@ function calcularImpuestos(edad,ingresos){
     }
     
 }
+
 //codigo de prueba 
 console.log(calcularImpuestos(18, 1000)) 
 console.log(calcularImpuestos(40, 10000)) 
